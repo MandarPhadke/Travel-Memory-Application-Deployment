@@ -19,5 +19,12 @@ Graded Project on Travel Memory Application Deployment
 17. installed the nginx on both EC2 instances and configures proxy servers to access MERN app.
 18. now app is visible on browser with load balancer url.  
 19. ![2024-09-07_15-54](https://github.com/user-attachments/assets/65d7b10f-5adb-4faa-a977-266941fcc1bd)
-20. Creating Account on cloudflare  
+20. Setup a Domain. As the cloud flare is a paid one, using https://dash.infinityfree.com/ to setup a domain
+21. ![2024-09-10_20-09](https://github.com/user-attachments/assets/5203be2f-f8c8-4059-b30b-eb73de6e8a1f)
+22. url is accessible from url:travel_memory_application.mandardevops.lovestoblog.com
+23. ![2024-09-10_20-11](https://github.com/user-attachments/assets/7d0486e5-7f51-45ed-a0ae-93ad5edea409)
+24. Architecture Digram
+25. ![Untitled Diagram drawio](https://github.com/user-attachments/assets/67809745-7580-4585-b972-9914d1432254)
+
+
 
